@@ -1,4 +1,5 @@
 <h1>MBTA Real Time Bus Tracking</h1>
+Real time bus tracking of all active buses in transit for the MBTA. Shows inbound, outbound and stopped status by color or marker on map and is searchable by bus route. Each marker contains a clickable popup that will provide more details on the buss and a link to that bus routes website at MBTA
 <h2>Future Improvements</h2>
 <p>Add validation of route entries</p>
 <h2>How to run</h2>
