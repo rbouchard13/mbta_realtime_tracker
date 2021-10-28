@@ -1,6 +1,8 @@
 <h1>MBTA Real Time Bus Tracking</h1>
 <h2>Future Improvements</h2>
 <p>Add validation of route entries</p>
+<h2>How to run</h2>
+Create new folder on your local system. Copy index.html, mapanimation.js and styles.css to the folder. Double click or right click/open index.html
 <h2>Soure API's</h2>
 <a href="https://www.mapbox.com/legal/tos/" target="_blank">MapBox</a>
 <h2>License</h2>
